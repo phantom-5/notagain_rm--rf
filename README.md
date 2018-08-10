@@ -1,5 +1,5 @@
 # notagain_rm -rf
-A quick script to save the day :)
+**Did you just ```rm -rf``` a file or directory you weren't supposed to ? Couple quick scripts to save the day :)**
 ```
 notagain_yn.sh 
 ```
