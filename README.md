@@ -4,7 +4,7 @@
 notagain_yn.sh 
 ```
 
-It asks for reconfirmation, if you want to delete, while no other commands are filtered and executed as it is.
+It asks for confirmation, if you want to delete, while no other commands are filtered and executed as it is.
 ```
 
 notagain_timed.sh
