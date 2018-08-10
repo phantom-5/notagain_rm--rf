@@ -13,7 +13,7 @@ notagain_timed.sh
 It waits 6sec , giving you ample time for ^C if you want to abort.
 
 
-<a href="https://imgur.com/6SefsAI"><img src="https://i.imgur.com/rDNljTv.png" title="source: imgur.com" /></a><br/>
-<a href="https://imgur.com/6SefsAI"><img src="https://i.imgur.com/yW5dEmV.png" title="source: imgur.com" /></a><br/>
+<a href="https://imgur.com/6SefsAI"><img src="https://i.imgur.com/rDNljTv.png" title="source: imgur.com" width="250" height="400"/></a>
+<a href="https://imgur.com/6SefsAI"><img src="https://i.imgur.com/yW5dEmV.png" title="source: imgur.com" width="250" height="400" /></a><br/>
 
 TODO : Add to .bashrc , run on loop
